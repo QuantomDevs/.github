@@ -1,10 +1,15 @@
 ## Theory of Quantoms
+<img src="../images/labonair.png" align="left" width="200"/>
 
-<div align="center">
-<img src="../images/cover.jpeg" width="200" alt="Quantom Logo" />
-</div>
+### `Labonair`
 
-<h1 align="center">Quantom Developers</h1>
+Experience a modern, KI supported, Privacy First IDE, [Labonair](https://github.com/Snenjih/Labonair)! Our mission is to give you a perfect balance for speed, privacy and productivity
+
+<a href="https://www.labonair.app">Website</a> ·
+<a href="https://docs.labonair.app">Docs</a> ·
+<a href="https://www.labonair.app/download">Download</a> ·
+<a href="https://www.labonair.app/release-notes/latest">Release Notes</a>
+
 
 ### About Us
 
